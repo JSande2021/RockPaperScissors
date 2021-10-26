@@ -8,7 +8,7 @@
 
 **After First Turn Screen**
 
-![]()
+![After First](RPS%20After%20first%20turn%20Screen.png)
 
 
 **After Numerous Turns Screen**
